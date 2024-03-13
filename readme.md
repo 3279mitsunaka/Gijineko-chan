@@ -139,7 +139,7 @@ Afterward, create zip files for them.
 Don't forget to rewrite the code to match the model name!
 
 ## Future Direction
-Each model is trained using hundreds of photos, which results in less than optimal accuracy. Furthermore, the current implementation of audio within the code presents flaws, leading to decreased object tracking accuracy over time. We are planning to address these issues in future updates.<br>
+Each model was trained using hundreds of photos, which results in less than optimal accuracy. Furthermore, the current implementation of audio within the code presents flaws, leading to decreased object tracking accuracy over time. We are planning to address these issues in future updates.<br>
 Despite these challenges, the results suggest promising potential for the development of a robot designed to assess the suitability of individuals as pet owners.
 
 ## References
