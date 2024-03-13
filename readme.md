@@ -103,7 +103,7 @@ Before starting this project, please follow the information below to set up.
 1. Log in to the JetBot using SSH, and perform the following operations.
 
     ```bash
-    git clone https://
+    git clone https://github.com/3279mitsunaka/Gijineko-chan.git
     ```
 
 2. Move the WAV-format audion data of cat voice to the 'voice' folder.
@@ -115,7 +115,7 @@ Before starting this project, please follow the information below to set up.
 
 ## Usage
 
-Follow the instructions provided in ['main.ipynb']() to run Jetbot, and enjoy whimsical object tracking.
+Follow the instructions provided in ['main.ipynb'](main.ipynb) to run Jetbot, and enjoy whimsical object tracking.
 
 By default, the following three modes automatically switch every few dozen seconds.
 1. Chasing a stuffed cat while threatening.
@@ -135,7 +135,7 @@ Afterward, create zip files for them.
 
 3. Follow the instructions provided in ['live_demo_build_trt.ipynb'](https://github.com/NVIDIA-AI-IOT/jetbot/blob/master/notebooks/road_following/live_demo_build_trt.ipynb) to build TensorRT models.
 
-4. Open ['gijinekochan/main.ipynb']() to move JetBot with the TensorRT optimized models.<br>
+4. Open ['gijinekochan/main.ipynb'](main.ipynb) to move JetBot with the TensorRT optimized models.<br>
 Don't forget to rewrite the code to match the model name!
 
 ## Future Direction
