@@ -9,7 +9,7 @@ News of animal abuse by pet owners is unending. I've thought it would be benefic
 Our ultimate goal is to create a robot that replicates all the frustrating behaviors exhibited by cats, to assess human responses. As part of this endeavor, we've attempted to recreate the whimsical and capricious nature of cats.
 
 ![](img/Gijineko-chan.jpg)
-*Our works*
+*Our work*
 
 ## Table of Contents
 
