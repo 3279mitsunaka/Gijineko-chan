@@ -140,7 +140,7 @@ Don't forget to rewrite the code to match the model name!
 
 ## Future Direction
 Each model was trained using hundreds of photos, which results in less than optimal accuracy. Furthermore, the current implementation of audio within the code presents flaws, leading to decreased object tracking accuracy over time. We are planning to address these issues in future updates.<br>
-However, the results suggest promising potential for the development of a robot designed to assess the suitability of individuals as pet owners.
+In summary, while there are still some issues, it can be said that they suggest promising potential for the development of a robot designed to assess the suitability of individuals as pet owners.
 
 ## References
 [NVIDIA-AI-IOT/jetbot](https://github.com/NVIDIA-AI-IOT/jetbot)<br>
