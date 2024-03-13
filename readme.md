@@ -13,13 +13,13 @@ Our ultimate goal is to create a robot that replicates all the frustrating behav
 
 ## Table of Contents
 
-1. [Requirements](##Requirements)
-2. [Advance Preparation](##Advance-Preparation)
-3. [Setup](##Setup)
-4. [Usage](##Usage)
-5. [Customize Model](##Customize-Model)
-6. [Future Direction](##Future-Direction)
-7. [References](##References)
+1. [Requirements](#Requirements)
+2. [Advance Preparation](#Advance-Preparation)
+3. [Setup](#Setup)
+4. [Usage](#Usage)
+5. [Customize Model](#Customize-Model)
+6. [Future Direction](#Future-Direction)
+7. [References](#References)
 
 ## Requirements
 
