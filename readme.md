@@ -5,7 +5,7 @@ Its capricious personality will toy with you, but surely you are not the kind of
 
 ## Background
 
-News of animal abuse by pet owners is unending. I've thought it would be beneficial if there was a way to verify whether a person can responsibly care for a cat without using a real animal, before they decide to buy or adopt one.<br>
+News of animal abuse by pet owners is unending. We've thought it would be beneficial if there was a way to verify whether a person can responsibly care for a cat without using a real animal, before they decide to buy or adopt one.<br>
 Our ultimate goal is to create a robot that replicates all the frustrating behaviors exhibited by cats, to assess human responses. As part of this endeavor, we've attempted to recreate the whimsical and capricious nature of cats.
 
 ![](img/Gijineko-chan.jpg)
@@ -136,7 +136,7 @@ Afterward, create zip files for them.
 3. Follow the instructions provided in ['live_demo_build_trt.ipynb'](https://github.com/NVIDIA-AI-IOT/jetbot/blob/master/notebooks/road_following/live_demo_build_trt.ipynb) to build TensorRT models.
 
 4. Open ['gijinekochan/main.ipynb'](main.ipynb) to move JetBot with the TensorRT optimized models.<br>
-Don't forget to rewrite the code to match the model name!
+Don't forget to rewrite the code to match the model name.
 
 ## Future Direction
 Each model was trained using hundreds of photos, which results in less than optimal accuracy. Furthermore, the current implementation of audio within the code presents flaws, leading to decreased object tracking accuracy over time. We are planning to address these issues in future updates.<br>
