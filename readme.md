@@ -5,8 +5,8 @@ Its capricious personality will toy with you, but surely you are not the kind of
 
 ## Background
 
-News of animal abuse by pet owners is unending. We've thought it would be beneficial if there was a way to verify whether a person can responsibly care for a cat without using a real animal, before they decide to buy or adopt one.<br>
-Our ultimate goal is to create a robot that replicates all the frustrating behaviors exhibited by cats, to assess human responses. As part of this endeavor, we've attempted to recreate the whimsical and capricious nature of cats.
+News of animal abuse by pet owners is unending. We've thought it would be beneficial if there was a way to verify whether a person can responsibly care for a pet without using a real animal, before they decide to buy or adopt one.<br>
+Our ultimate goal is to create a robot that replicates all the frustrating behaviors exhibited by pet animals, to assess human responses. As part of this endeavor, we've attempted to recreate the cats' whimsical and capricious nature.
 
 ![](img/Gijineko-chan.jpg)
 *Our work*
